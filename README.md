@@ -1,6 +1,8 @@
 TO-DO Notes - Code for 5.1-5.3 Testing Codelab
 ============================================================================
 
+[![CI](https://github.com/ykws/android-testing/actions/workflows/build_test.yml/badge.svg)](https://github.com/ykws/android-testing/actions/workflows/build_test.yml)
+
 Code for the Advanced Android Kotlin Testing Codelab 5.1-5.3
 
 Introduction
